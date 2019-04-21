@@ -1,1 +1,1 @@
-# Hacker Rank challenges
+# Hacker Rank Challenges
