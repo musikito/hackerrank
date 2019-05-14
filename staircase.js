@@ -1,7 +1,7 @@
 function staircase(n) {
-    for (let i=0; i<=n - 1; i++) {
+    for (let i=1; i<=n; i++) {
       console.log(' '.repeat(n-i) + '#'.repeat(i))
-      console.log(i);
+     // console.log(i + n);
     }
   }
   
